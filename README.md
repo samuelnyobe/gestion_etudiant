@@ -1,2 +1,2 @@
-# gesttion_etudiant
+# gestion_etudiant
 Ce projet consiste à développer une application de gestion des étudiants à ISSE
